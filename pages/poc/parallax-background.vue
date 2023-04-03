@@ -51,8 +51,6 @@ const scroll = (event: MouseEvent) => {
 
     xAxis.value = directionResultX;
     yAxis.value = directionResultY;
-
-    console.log(xAxis.value, yAxis.value);
 };
 
 onMounted(() => {
