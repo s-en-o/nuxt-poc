@@ -12,6 +12,7 @@
     "nuxt": "^3.3.2"
   },
   "dependencies": {
+    "@types/node": "^18.15.11",
     "sass": "^1.60.0"
   }
 }
